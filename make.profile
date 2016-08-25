@@ -1,0 +1,1 @@
+../gentoo/profiles/hardened/linux/musl/amd64
